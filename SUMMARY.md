@@ -14,7 +14,7 @@
 
 ## ArcGIS Pro Maps
 
-* [Page 1](arcgis-pro-maps/page-1.md)
+* [Maps](arcgis-pro-maps/maps.md)
 
 ## Group 1
 
