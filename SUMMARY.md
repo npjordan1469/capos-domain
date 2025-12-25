@@ -33,6 +33,6 @@
 
 * [Engineering Lecture Hall](sketch-up-3d/engineering-lecture-hall.md)
 
-## Group 1
+## Code Projects
 
-* [Page 1](group-1/page-1.md)
+* [Flood Prediction Modeling In Massachussetts](code-projects/flood-prediction-modeling-in-massachussetts.md)
