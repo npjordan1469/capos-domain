@@ -12,6 +12,15 @@
 * [Oxidation Chart & Results](tube-furnaces-enne-synergy-and-hacker-fab-fossf-silicon/oxidation-chart-and-results.md)
 * [Malfunction Log](tube-furnaces-enne-synergy-and-hacker-fab-fossf-silicon/malfunction-log.md)
 
+## Modeling Projects
+
+* [EPANET Simulation of a Municipal Water System](modeling-projects/epanet-simulation-of-a-municipal-water-system/README.md)
+  * [EPANET For Potable System](modeling-projects/epanet-simulation-of-a-municipal-water-system/epanet-for-potable-system.md)
+  * [EPANET For Nonpotable System](modeling-projects/epanet-simulation-of-a-municipal-water-system/epanet-for-nonpotable-system.md)
+  * [Pump Scaling](modeling-projects/epanet-simulation-of-a-municipal-water-system/pump-scaling.md)
+  * [Presentation](modeling-projects/epanet-simulation-of-a-municipal-water-system/presentation.md)
+* [Flood Prediction Modeling In Massachussetts](modeling-projects/flood-prediction-modeling-in-massachussetts.md)
+
 ## AutoCAD Blueprints
 
 * [Beam/Support Details](autocad-blueprints/beam-support-details.md)
@@ -31,8 +40,8 @@
 
 ## Sketch-Up 3D
 
+* [UCI ASCE Sustainable Solutions 2025-26](sketch-up-3d/uci-asce-sustainable-solutions-2025-26/README.md)
+  * [Cooling Tower](sketch-up-3d/uci-asce-sustainable-solutions-2025-26/cooling-tower.md)
+  * [Data Center Building](sketch-up-3d/uci-asce-sustainable-solutions-2025-26/data-center-building.md)
+  * [Hydroelectric System](sketch-up-3d/uci-asce-sustainable-solutions-2025-26/hydroelectric-system.md)
 * [Engineering Lecture Hall](sketch-up-3d/engineering-lecture-hall.md)
-
-## Code Projects
-
-* [Flood Prediction Modeling In Massachussetts](code-projects/flood-prediction-modeling-in-massachussetts.md)
